@@ -21,11 +21,15 @@ The script automates the following steps:
 
 ```bash
 git clone https://github.com/your-username/irium-install.git
+```
+```bash
 cd irium-install
 ```
+
 ```bash
 chmod +x irium-install.sh
 ```
+
 ```bash
 ./irium-install.sh
 ```
