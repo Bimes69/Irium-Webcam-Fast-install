@@ -23,7 +23,7 @@ The script automates the following steps:
 git clone https://github.com/Bimes69/Irium-Webcam-Fast-install
 ```
 ```bash
-cd irium-install
+cd Irium-Webcam-Fast-install
 ```
 
 ```bash
